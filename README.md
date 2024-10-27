@@ -17,7 +17,7 @@ Contributions are welcome! To contribute:
 1. **Fork the repository.**
    Click on the "Fork" button at the top right of this repository page to create a copy of the repository in your GitHub account.
    
-2. **Clone Your Forked Repository
+2. **Clone Your Forked Repository**
    Clone the forked repository to your local machine:
    ```bash
    git clone https://github.com/YourUsername/Common.Lib.git
