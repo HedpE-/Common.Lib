@@ -8,6 +8,7 @@ To include **Common.Lib** in your project, you can clone it directly from the Gi
 
 ```bash
 git clone https://github.com/HedpE-/Common.Lib.git
+```
 
 ## Contributions
 
